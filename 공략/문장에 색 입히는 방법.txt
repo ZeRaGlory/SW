@@ -1,0 +1,9 @@
+head
+
+인터널 스타일
+<style>
+Green {color:green}
+</style>
+
+익스터널 스타일
+<link rel="stylesheet" href="color.css"
